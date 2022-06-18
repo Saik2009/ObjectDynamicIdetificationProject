@@ -1,0 +1,16 @@
+body{
+background-size: contain;
+}
+.form-control{
+    width:35%;
+}
+.heading{
+    width:100%;
+    margin:0;
+    font-size:25px;
+}
+canvas{
+    border-radius: 20px;
+    border-width:10px;
+    border-style:groove;
+}
